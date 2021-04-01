@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/intruder/.cache/ibus/dbus-AGsfCObm,guid=717a39cf79e11dc5d9c6b9ce758ef97c
+IBUS_DAEMON_PID=1406

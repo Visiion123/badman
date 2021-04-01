@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-background-panel.desktop" score="0" last-seen="0"/>
+    <application id="gnome-control-center.desktop" score="281438440.046875" last-seen="1617314539"/>
+    <application id="org.gnome.Terminal.desktop" score="21.25" last-seen="1617314609"/>
+    <application id="gnome-network-panel.desktop" score="0" last-seen="0"/>
+    <application id="firefox-esr.desktop" score="14" last-seen="1617314758"/>
+  </context>
+</application-state>
